@@ -1,0 +1,37 @@
+_repo: Rajuilma-Huvinaytelma-yhdessa-naytoksessa_52173
+_version: 0.0.1
+alternative_title: Une tempête sous un crane. Finnish
+contributor:
+  translator:
+    agent_name: Järnefelt, Saimi
+    aliases:
+    - Jarnefelt, Saimi
+    - Swan, Saimi
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '44582'
+    url: http://www.gutenberg.org/2009/agents/44582
+creator:
+  author:
+    agent_name: Dreyfus, Abraham
+    birthdate: 1847
+    deathdate: 1926
+    gutenberg_agent_id: '46709'
+    url: http://www.gutenberg.org/2009/agents/46709
+description: ''
+gutenberg_issued: '2016-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52173'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- Translations into Finnish'
+- !lcsh 'One-act plays'
+- !lcsh 'Comedies'
+- !lcc 'PQ'
+- GITenberg
+title: 'Rajuilma: Huvinäytelmä yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/52173
